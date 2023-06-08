@@ -10,7 +10,5 @@ BUTTERFLY parametric curve to GCode generation for CNC milling.
 ![](BUTTERFLY-screenshots/Image-09-Algo20-FC20-Butterfly.png)
 
 
-
-
 Wassalam.
 WRY
